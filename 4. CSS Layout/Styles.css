@@ -1,0 +1,170 @@
+#logo {
+  width: 268px;
+  height: 68px;
+}
+.main-menu {
+  margin-top: 25px;
+}
+#about-us {
+  color: #00b39b;
+}
+.main-menu a {
+  text-decoration: none;
+  color: #ababab;
+  font-family: roboto, Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 0px 9px;
+}
+.main-menu a:hover {
+  color: aquamarine;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.div1-1 {
+  text-align: center;
+}
+.div1-1 h1 {
+  font-size: 2.125rem;
+  color: #00b39b;
+  margin: 1em 0;
+  font-family: Work Sans, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.3px;
+}
+
+.div1-2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.div1-2 p {
+  width: 300px;
+  font-family: Roboto, Arial, sans-serif;
+  color: #747474;
+}
+
+.section2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.div2-1 {
+  border: 1px;
+  border-radius: 10px;
+  padding: 2em 2em 0;
+  height: 345px;
+  width: 200px;
+  color: #fff;
+  font-family: Roboto, Arial, sans-serif;
+}
+#patients {
+  background: #00b39b;
+}
+#doctors {
+  background: #3d83df;
+}
+#clinics {
+  background: #747474;
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  width: 25%;
+  height: "32";
+}
+.logo {
+  color: #3d83df;
+}
+.section3 {
+  display: flex;
+  justify-content: space-around;
+}
+.div3-1 {
+  color: #00b39b;
+  font-family: Work Sans, Arial, sans-serif;
+  display: block;
+}
+
+.listeLogos {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+li {
+  font-family: Roboto, Arial, sans-serif;
+  color: #747474;
+}
+.cingDerniersLogos {
+  display: flex;
+}
+
+.section4 {
+  display: flex;
+  background: #e5faf8;
+}
+.div4-1 p {
+  font-family: Roboto, Arial, sans-serif;
+  color: #747474;
+}
+.div4-1 h1 {
+  font-family: Roboto, Arial, sans-serif;
+  color: #00b39b;
+}
+
+.div4-2 {
+  display: flex;
+}
+
+.carte {
+  text-align: center;
+  background-color: #fff;
+  height: 220px;
+  width: 180px;
+}
+.carte p {
+  font-family: Roboto, Arial, sans-serif;
+  color: #747474;
+}
+.carte h2 {
+  color: #00b39b;
+}
+
+.section5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.section5 h1 {
+  color: #00b39b;
+}
+.section5 {
+  color: #747474;
+}
+
+.section6{
+    display:flex;
+    flex-wrap: wrap;
+}
+.section6>ville{
+    width:250px;
+    height: 280px;
+}
+
+.section7{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sous-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
